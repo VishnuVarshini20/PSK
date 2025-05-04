@@ -62,3 +62,8 @@ plt.show()
 
 # Results
 Phase-shift keying (PSK) will be displayed in separate plots. Thus implemented using python colab.
+
+# Hardware output graph
+
+![pskgraph](https://github.com/user-attachments/assets/c530b454-156e-4313-a602-cb114af0a861)
+
